@@ -8,7 +8,7 @@
 
     {
     "binary": "01000100",
-    "bitDecimals":[64,4],
+    "bitDecimals":[4,64],
     "decimal":68,
     "ascii": "»D"
     },
