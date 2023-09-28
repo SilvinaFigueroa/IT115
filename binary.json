@@ -1,0 +1,24 @@
+[
+    {
+    "binary": "01100100",
+    "bitDecimals": [4,32,64],
+    "decimal": 100,
+    "ascii": "d"
+    },
+
+    {
+    "binary": "01000100",
+    "bitDecimals":[64,4],
+    "decimal":68,
+    "ascii": "»D"
+    },
+
+    {
+    "binary": "00110101",
+    "bitDecimals":[1,4,16,32],
+    "decimal":53,
+    "ascii": "5"
+    }
+]
+
+
